@@ -6,20 +6,20 @@
     letter-spacing: 1px;
 }
 
-.intro {
+/* .intro {
     margin-right: 40%;
     font-size: 40px;
     margin-bottom: 500PX;
-}
+} */
 
 body {
-    min-height: 100vh;
+    min-height: 100%;
     max-width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    /* display: grid;
-    place-items: center; */
+    display: grid;
+    place-items: center;
     background: linear-gradient(45deg, #573030, #81b0f2);
 }
 
